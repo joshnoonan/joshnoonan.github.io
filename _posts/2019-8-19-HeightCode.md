@@ -28,7 +28,7 @@ with open('9698.csv','r') as f:
             if row[1].isdigit(): result.append(row) 
 ```
 
-We'll create a dictionary 'd', that maps a player name to the distance of each of their shots as we read the csv file.
+We'll create a dictionary 'd', that maps a player name to a list holding the distance of each of their shots as we read the csv file.
 ```python
 d ={}
 for row in result: #map player names to all shot distances
