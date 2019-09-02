@@ -79,4 +79,5 @@ plt.xlabel('Number of Neighbors (K)')
 plt.tight_layout()
 plt.show()
 ```
-![Here's our plot](https://raw.githubusercontent.com/joshnoonan/joshnoonan.github.io/master/images/quarterK.png) 
+Here's our plot
+![Accuracy plot](https://raw.githubusercontent.com/joshnoonan/joshnoonan.github.io/master/images/quarterK.png) 
