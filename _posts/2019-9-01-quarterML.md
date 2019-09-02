@@ -79,5 +79,6 @@ plt.xlabel('Number of Neighbors (K)')
 plt.tight_layout()
 plt.show()
 ```
-Here's our plot
+Here's our plot!
 ![Accuracy plot](https://raw.githubusercontent.com/joshnoonan/joshnoonan.github.io/master/images/quarterK.png) 
+We can see that around k = 6, the k-nearest algorithm has an accuracy of at least 60% for all k-values greater than or equal 6. The algorithm obviously has its flaws and can only do so well in predicting whether or not a team will make the playoffs based off of a single parameter (z-score for shooting percentage in a quarter). The algorithm struggles with teams that have good offenses but worse defenses, which is a direction that could easily be followed for algorithmic improvement. Expect to see more about this in later posts!
