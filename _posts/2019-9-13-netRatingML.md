@@ -119,3 +119,5 @@ Let's save our predictions as a csv file.
 predictions.to_csv("1819predictions.csv")
 ```
 
+As we can see, our model was pretty accurate in predicting what teams would make the playoffs. Our model was high on the Orlando Magic, a team that many pundits and analysts left for dead in the earlier half of the season. The model did give the Miami Heat a roughly 75% chance of making the playoffs, and the Heat eventually ended the season on the outside looking in as the 9-seed. I wouldn't consider this a failure by the model as the Heat were in contention for a playoff spot until the literal last day of the regular season. Overall, I'm happy with how the model turned out, and look forward to utilizing SVMs in later projects!
+
