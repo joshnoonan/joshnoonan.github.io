@@ -80,6 +80,40 @@ predictions
 
 Here's our predictions!
 
+
+<table align="center">
+  <tr><th align="center">Team</th><th align="center">Playoff Probability</th></tr>
+  <tr><td>ATL</td><td>6.37</td></tr>
+  <tr><td>BOS</td><td>89.92</td></tr>
+  <tr><td>BKN</td><td>85.74</td></tr>
+  <tr><td>CHO</td><td>8.78</td></tr>
+  <tr><td>CHI</td><td>6.28</td></tr>
+  <tr><td>CLE</td><td>6.28</td></tr>
+  <tr><td>DAL</td><td>5.74</td></tr>
+  <tr><td>DEN</td><td>90.10</td></tr>
+  <tr><td>DET</td><td>85.71</td></tr>
+  <tr><td>GSW</td><td>90.17</td></tr>
+  <tr><td>HOU</td><td>90.21</td></tr>
+  <tr><td>IND</td><td>90.72</td></tr>
+  <tr><td>LAC</td><td>91.36</td></tr>
+  <tr><td>LAL</td><td>5.01</td></tr>
+  <tr><td>MEM</td><td>6.11</td></tr>
+  <tr><td>MIA</td><td>74.63</td></tr>
+  <tr><td>MIL</td><td>90.19</td></tr>
+  <tr><td>MIN</td><td>4.81</td></tr>
+  <tr><td>NOP</td><td>5.43</td></tr>
+  <tr><td>NYK</td><td>6.21</td></tr>
+  <tr><td>OKC</td><td>90.10</td></tr>
+  <tr><td>PHI</td><td>88.66</td></tr>
+  <tr><td>PHX</td><td>6.24</td></tr>
+  <tr><td>POR</td><td>89.92</td></tr>
+  <tr><td>SAC</td><td>7.69</td></tr>
+  <tr><td>SAS</td><td>88.75</td></tr>
+  <tr><td>TOR</td><td>90.10</td></tr>
+  <tr><td>UTA</td><td>90.02</td></tr>
+  <tr><td>WAS</td><td>5.95</td></tr>
+</table>
+
 |Team   | Playoff Probability  |
 |---|---|
 |  ATL |  6.374205 |
